@@ -1,0 +1,59 @@
+.container {
+    display: flex;
+    flex-direction: row;
+}
+.content {
+    display: flex;
+    flex-direction: column;
+    align-content: stretch;
+    gap: 20px;
+    width: 25%;
+    height: 80%;
+    margin-left: 100px;
+    margin-top: 100px;
+    padding: 40px;
+    background-color: gold;
+    border-radius: 12px;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.options{
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    margin-left: 5px;
+    color: gray;
+    font-size: 16px;
+
+}
+
+.choice {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 20%;
+}
+.choiceContent {
+    display: flex;
+    flex-direction: row;
+    gap: 120px;
+}
+.datainput {
+    padding: 20px;
+    border-color: gold;
+}
+.choiceinput {
+    border-color: gold;
+}
+.button {
+    padding: 20px;
+    background-color: rgb(49, 49, 162);
+    color: white;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    border-radius: 3px;
+    border-color: gold;
+    cursor: pointer;
+}

@@ -1,0 +1,55 @@
+.h1 {
+    margin-left: 50px;
+}
+
+.table {
+    margin-left: 50px;
+    width: 95%;
+    
+}
+.list {
+    display: flex;
+    gap: 1250px;
+}
+
+.table td {
+  font-size: 22px;
+  padding: 10px;
+  color: gray;
+}
+
+.th2 {
+    width: auto;
+    border-right: 1px solid black;
+}
+
+.buttonDelete {
+    cursor: pointer;
+    font-size: large;
+    height: 40px;
+    margin-right: 20px;
+    color: #e65774;
+    border-color: #e65774;
+    background-color: white;
+    border-radius: 8px;
+}
+.buttonEdit {
+    cursor: pointer;
+    height: 40px;
+    width: 70px;
+    color: #e65774;
+    border-color: #e65774;
+    background-color: white;
+    font-size: large;
+    border-radius: 8px;
+}
+.add{
+    cursor: pointer;
+    height: 50px;
+    width: 100px;
+    color: #219021;
+    border-color: #219021;
+    background-color: white;
+    font-size: large;
+    border-radius: 8px;
+}

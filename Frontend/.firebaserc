@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "default": "bookingapp-1ad43",
+    "build": "booking-aeabc",
+    "staging": "bookingapp-1ad43"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}

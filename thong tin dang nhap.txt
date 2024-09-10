@@ -1,0 +1,8 @@
+admin token: admin
+
+user: 
+name: test1
+pass: 4321
+admin:
+name: tung
+pass: 123

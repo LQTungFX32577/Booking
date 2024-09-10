@@ -1,0 +1,58 @@
+.table {
+    width: 80%;
+    border: 1px solid;
+    margin-left: 200px;
+    margin-top: 100px;
+    border-collapse: collapse;
+    text-align: center;
+}
+.table th {
+    border-right: 1px solid;
+    height: 40px;
+    background-color: #32a4c1;
+    color: white;
+}
+.th2 {
+  width: 20%;
+}
+.th3 {
+ width: 10%;
+}
+.th4 {
+ width: 30%;
+}
+.th5 {
+  width: 10%;
+}
+.th6 {
+  width: 10%;
+}
+.th7 {
+  width: 15%;
+}
+.table td {
+    height: 30px;
+    border: 1px solid;
+    font-weight: 500;
+}
+.booked{
+  background-color: #f69685;
+  font-size: 22px;
+  scale: 0.8;
+  color: gray;
+  border-radius: 8px;
+}
+.checkIn{
+  background-color: #39d139;
+  font-size: 22px;
+  scale: 0.8;
+  color: gray;
+  border-radius: 8px;
+}
+.checkOut{
+  background-color: #d3d0f2;
+  font-size: 22px;
+  scale: 0.8;
+  color: gray;
+  border-radius: 8px;
+}

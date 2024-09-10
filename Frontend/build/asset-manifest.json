@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BookingAss1/static/css/main.dc4cc1a2.css",
+    "main.js": "/BookingAss1/static/js/main.adaea95d.js",
+    "index.html": "/BookingAss1/index.html",
+    "main.dc4cc1a2.css.map": "/BookingAss1/static/css/main.dc4cc1a2.css.map",
+    "main.adaea95d.js.map": "/BookingAss1/static/js/main.adaea95d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4cc1a2.css",
+    "static/js/main.adaea95d.js"
+  ]
+}

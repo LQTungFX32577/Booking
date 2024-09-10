@@ -1,0 +1,15 @@
+.content {
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+    justify-content: center;
+    gap: 100px;
+    margin-bottom: 100px;
+}
+.list {
+    display: flex;
+    flex-direction: column;
+    gap:10px;   
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}

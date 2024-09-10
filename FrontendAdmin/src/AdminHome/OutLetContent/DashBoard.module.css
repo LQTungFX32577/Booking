@@ -1,0 +1,103 @@
+.container {
+    margin-top: 50px;
+    display: flex;
+    margin-left: 50px;
+    gap: 50px;
+    color: gray;
+}
+.h1 {
+    margin-left: 50px;
+}
+.box {
+    padding: 20px;
+    width: 300px;
+    border-radius: 5px;
+    box-shadow: 1px 3px 5px 3px gray;
+}
+.box p{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.table {
+    width: 90%;
+    border: 1px solid;
+    margin-left: 50px;
+    border-collapse: collapse;
+    text-align: center;
+}
+.table th {
+    font-size: 20px;
+    height: 40px;
+    background-color: #32a4c1;
+    color: white;
+}
+.th2 {
+  width: 20%;
+}
+.th3 {
+ width: 10%;
+}
+.th4 {
+ width: 30%;
+}
+.th5 {
+  width: 10%;
+}
+.th6 {
+  width: 10%;
+}
+.th7 {
+  width: 15%;
+}
+.th8 {
+  background-color: #39d139;
+  font-size: 22px;
+  cursor: pointer;
+  scale: 0.8;
+  color: gray;
+  border-radius: 8px;
+}
+.th9 {
+  background-color: #f69685;
+  cursor: pointer;
+  font-size: 22px;
+  scale: 0.8;
+  color: gray;
+  border-radius: 8px;
+}
+.table td {
+    height: 30px;
+    border: 1px solid;
+    font-weight: 500;
+}
+.booked{
+  background-color: #f69685;
+  font-size: 22px;
+  scale: 0.8;
+  color: gray;
+  border-radius: 8px;
+}
+.checkIn{
+  background-color: #39d139;
+  font-size: 22px;
+  scale: 0.8;
+  color: gray;
+  border-radius: 8px;
+}
+.checkOut{
+  background-color: #d3d0f2;
+  font-size: 22px;
+  scale: 0.8;
+  color: gray;
+  border-radius: 8px;
+}
+.button {
+  cursor: pointer;
+  width: 100px;
+  height: 50px;
+  background-color: #008080;
+  color: white;
+  border: none;
+  font-weight: 500;
+
+}

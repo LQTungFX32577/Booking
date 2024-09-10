@@ -1,0 +1,106 @@
+.container  {
+    margin-left: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+}
+
+.h1 {
+    width: 97%;
+    color: #d9dfe6;
+    padding: 15px;
+    box-shadow: 1px 3px 5px 3px #efefef;
+}
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    padding: 15px;
+    box-shadow: 1px 1px 5px 5px #efefef;
+}
+.input {
+    display: flex;
+    justify-content: space-around;
+}
+
+.leftInput {
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+}
+
+.leftInput label {
+  font-size: 25px;
+  padding: 5px;
+}
+
+
+.leftInput input {
+  height: 30px;
+  width: 500px;
+  outline: none;
+  border: none;
+  text-indent: 20px;
+  font-size: 20px;
+  border-bottom: 1px solid black;
+  padding: 5px;
+  color: gray;
+}
+.leftInput textarea {
+    height: 100px;
+    width: 500px;
+    color: gray;
+    font-size: 15px;
+    color: gray;
+  }
+
+
+.rightInput {
+    margin-top: 5px;
+    display: flex;
+    gap: 12px;
+    flex-direction: column;
+}
+
+.rightInput label {
+    font-size: 25px;
+}
+
+.rightInput input {
+  height: 30px;
+  width: 500px;
+  outline: none;
+  border: none;
+  text-indent: 20px;
+  font-size: 20px;
+  border-bottom: 1px solid black;
+  padding: 5px;
+  color: gray;
+    
+}
+.button {
+    cursor: pointer;
+    width: 100px;
+    height: 50px;
+    margin-left: 130px;
+    background-color: #008080;
+    color: white;
+    border: none;
+    font-weight: 500;
+
+}
+
+.room {
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    margin-left: 135px;
+}
+.room label {
+    font-size: 25px;
+}
+.room select {
+    height: 100px;
+    width: 510px;
+    font-size: 22px;
+    color: gray;
+}
